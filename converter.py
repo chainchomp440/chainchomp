@@ -1,3 +1,5 @@
+
+## This is a test code
 rmb_str_value=input('please insert cny amount')
 
 rmb_value = eval(rmb_str_value)
