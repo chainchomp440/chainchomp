@@ -1,3 +1,5 @@
+##this is a prototype
+
 import random
 
 yesList = ['yes','yup','okay','sure','ok']
